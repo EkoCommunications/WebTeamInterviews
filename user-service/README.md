@@ -56,7 +56,7 @@ type UserModel = {
 ### Get many users
 
 - Method: `GET`
-- Path: `/users/`
+- Path: `/users/list`
 - Querystring:
   ```
   ```
